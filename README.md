@@ -1,18 +1,6 @@
-[![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-app.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-app/tags)
-[![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-app.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-app/contributors)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/mcnamee/react-native-starter-app/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/mcnamee/react-native-starter-app.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-app/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/mcnamee/react-native-starter-app.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-app/issues-closed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/mcnamee/react-native-starter-app.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-app/issues-pr)
-
-![alt text](https://dl.dropboxusercontent.com/u/46690444/GITHUB/rnsk-logo.jpg "React Native Starter Kit")
-
 # React Native Starter Kit
 
 React Native Starter Kit helps you get started with React Native. It contains a bunch of helpful components, building blocks and basic structure to allow you to jump straight into building an app.
-
-![alt text](https://dl.dropboxusercontent.com/u/46690444/GITHUB/rnsk-v2-screens.jpg "React Native Starter App")
-
 ---
 
 ## Docs
@@ -39,7 +27,7 @@ React Native Starter Kit helps you get started with React Native. It contains a 
 
 | Feature | Summary |
 | --- | --- |
-| [Redux](https://github.com/reactjs/react-redux) | A predictable state container - Helping you write applications that behave consistently and run in different environments. |
+ A predictable state container - Helping you write applications that behave consistently and run in different environments. |
 | [React Native Router Flux](https://github.com/aksonov/react-native-router-flux) | Router for React Native based on new React Native Navigation API. <br><br>['How to' Guide &rarr;](/src/navigation/README.md)|
 | [API Example](/docs/api.md) | A basic example showing how you can interact with a RESTful API with user authentication (JWT). |
 | [Sidebar / Hamburger Menu](https://github.com/react-native-community/react-native-side-menu) | ... |
